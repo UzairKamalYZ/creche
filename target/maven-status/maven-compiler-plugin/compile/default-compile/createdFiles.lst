@@ -1,2 +1,5 @@
-be\techfix\controllers\Application.class
-be\techfix\controllers\BabyController.class
+be\techfix\creche\controllers\Application.class
+be\techfix\creche\model\Baby$Gender.class
+be\techfix\creche\persistence\BabyRepository.class
+be\techfix\creche\model\Baby.class
+be\techfix\creche\controllers\BabyController.class
