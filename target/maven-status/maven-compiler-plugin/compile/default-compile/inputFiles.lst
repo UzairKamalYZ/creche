@@ -1,4 +1,12 @@
+C:\workspaces\creche\src\main\java\be\techfix\creche\Application.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\JwtRequestFilter.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\WebSecurityConfig.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\controllers\JwtAuthenticationController.java
 C:\workspaces\creche\src\main\java\be\techfix\creche\persistence\BabyRepository.java
 C:\workspaces\creche\src\main\java\be\techfix\creche\controllers\BabyController.java
-C:\workspaces\creche\src\main\java\be\techfix\creche\controllers\Application.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\JwtAuthenticationEntryPoint.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\JwtRequest.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\JwtResponse.java
 C:\workspaces\creche\src\main\java\be\techfix\creche\model\Baby.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\service\JwtUserDetailedService.java
+C:\workspaces\creche\src\main\java\be\techfix\creche\jwt\JWTUtility.java

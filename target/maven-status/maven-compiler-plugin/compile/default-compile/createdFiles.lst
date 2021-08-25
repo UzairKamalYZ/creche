@@ -1,5 +1,13 @@
-be\techfix\creche\controllers\Application.class
-be\techfix\creche\model\Baby$Gender.class
-be\techfix\creche\persistence\BabyRepository.class
+be\techfix\creche\jwt\JwtRequestFilter.class
+be\techfix\creche\jwt\WebSecurityConfig.class
 be\techfix\creche\model\Baby.class
 be\techfix\creche\controllers\BabyController.class
+be\techfix\creche\jwt\JwtResponse.class
+be\techfix\creche\model\Baby$Gender.class
+be\techfix\creche\service\JwtUserDetailedService.class
+be\techfix\creche\jwt\JwtAuthenticationEntryPoint.class
+be\techfix\creche\persistence\BabyRepository.class
+be\techfix\creche\jwt\JwtRequest.class
+be\techfix\creche\jwt\JWTUtility.class
+be\techfix\creche\Application.class
+be\techfix\creche\controllers\JwtAuthenticationController.class
