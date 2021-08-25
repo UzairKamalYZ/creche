@@ -10,9 +10,9 @@ Body: raw :
 "password":"password"
 }
 
-Response: <JWT Token>
+Response: JWT Token
 ### save Baby api ###
 Post : localhost:8090/creche/baby
 Header:
 Content-Type : application/json
-Authorization : Bearer <JWT Token returned after authentication>
+Authorization : Bearer JWT Token returned after authentication
